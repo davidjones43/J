@@ -1,6 +1,6 @@
 {
     "name": "Midnight Blurple",
-    "description": "A faithful blue recolor of Rose Pine dark - same structure and darkness, rose/iris swapped for light blue. Red (danger/DND) and green (success/online) kept distinct so status indicators stay readable.",
+    "description": "Ae faithful blue recolor of Rose Pine dark - same structure and darkness, rose/iris swapped for light blue. Red (danger/DND) and green (success/online) kept distinct so status indicators stay readable.",
     "authors": [
         {
             "name": "You"
